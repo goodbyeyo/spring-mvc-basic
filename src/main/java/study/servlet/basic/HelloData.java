@@ -1,4 +1,4 @@
-package study.servlet.basic.request;
+package study.servlet.basic;
 
 import lombok.Data;
 
